@@ -2,7 +2,7 @@
 
 :man_technologist: Developer, :family_man_woman_girl: Communities, :hearts: Open Source.
 
-[![pgp](https://img.shields.io/badge/pgp-0x296BE182-313131?style=flat&labelColor=545454&color=313131)](https://github.com/gentiangashi.pgp) [![views](https://komarev.com/ghpvc/?username=gentiangashi&style=flat&color=313131&label=views)](https://github.com/gentiangashi)
+[![pgp](https://img.shields.io/badge/pgp-0x437AB9C8F7E9BD8A-313131?style=flat&labelColor=545454&color=313131)](https://github.com/gentiangashi.pgp) [![views](https://komarev.com/ghpvc/?username=gentiangashi&style=flat&color=313131&label=views)](https://github.com/gentiangashi)
 
 <br>
 
